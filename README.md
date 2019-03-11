@@ -17,8 +17,6 @@
 
 ### 最后的补充
 1.  IDE建议用IntelliJ IDEA
-2.  微信
-![image](http://images2015.cnblogs.com/blog/278133/201607/278133-20160705104559655-1857735161.jpg)
 
 ### 代码举例
 #### controller
